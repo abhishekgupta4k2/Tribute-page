@@ -1,0 +1,30 @@
+img{
+    width: 20vw;
+    height: 40vh;
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.facts{
+    float: right;
+}
+
+.about{
+    padding: 20px;
+}
+
+.work{
+    padding: 20px;
+}
+
+.link{
+    padding: 20px;
+}
+
+a{
+    display: block;
+}
